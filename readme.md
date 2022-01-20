@@ -11,6 +11,10 @@
 
 * Quess-Number: https://alaattinatac.github.io/Quess-Number/
 
+* Rock Paper Scissors: https://alaattinatac.github.io/RPS-Project/
+
+* Drum Kit: https://alaattinatac.github.io/Drum-Kit/
+
 
 
 

@@ -25,7 +25,9 @@
 
 * Where Am I: https://alaattinatac.github.io/Where-Am-I/
 
-
+<a href="https://alaattinatac.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaattinatac&layout=compact" />
+</a>
 
 ## Personal Publications
 * Social Media: [Linkedin](https://www.linkedin.com/in/alaattinatac)

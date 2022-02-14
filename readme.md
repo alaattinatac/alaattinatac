@@ -1,7 +1,3 @@
-## GitHub
-<a href="https://alaattinatac.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaattinatac&layout=compact" />
-</a>
 ## Some of My Projects
 * Counter: https://alaattinatac.github.io/Counter/
 
@@ -32,3 +28,9 @@
 
 ## Personal Publications
 * Social Media: [Linkedin](https://www.linkedin.com/in/alaattinatac)
+
+
+## Most Used Languages on GitHub
+<a href="https://alaattinatac.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaattinatac&layout=compact" />
+</a>

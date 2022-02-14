@@ -28,8 +28,3 @@
 
 ## Personal Publications
 * Social Media: [Linkedin](https://www.linkedin.com/in/alaattinatac)
-
-
-<a href="https://alaattinatac.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaattinatac&layout=compact" />
-</a>

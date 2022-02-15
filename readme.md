@@ -1,4 +1,5 @@
 ## Some of My Projects
+
 * Counter: https://alaattinatac.github.io/Counter/
 
 * Temperature Converter: https://alaattinatac.github.io/CFRK-Converter/ 
@@ -27,4 +28,5 @@
 
 
 ## Personal Publications
+
 * Social Media: [Linkedin](https://www.linkedin.com/in/alaattinatac)
